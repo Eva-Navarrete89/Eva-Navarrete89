@@ -3,8 +3,8 @@
 <p><em>Front End Enginner Student At Turing<a href="https://turing.edu/">Turing School of Software Design</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
-[Linkedin: evanavarrete](https://www.linkedin.com/in/eva-navarrete-651450204/)
-[GitHub: EvaNavarrete](https://github.com/Eva-Navarrete)
+[![Linkedin: evanavarrete](https://media.giphy.com/media/Y01wot3Bt9Bpdz8xvs/giphy.gif)](https://www.linkedin.com/in/eva-navarrete-651450204/)
+[![GitHub: EvaNavarrete](https://media.giphy.com/media/stdqoZQtv5JVM1mI1j/giphy.gif)](https://github.com/Eva-Navarrete)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
