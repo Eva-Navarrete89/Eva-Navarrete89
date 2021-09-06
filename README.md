@@ -3,7 +3,7 @@
 <p><em>Front End Enginner Student<a href="https://turing.edu/">Turing School of Software Design</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
-<a href="https://www.linkedin.com/in/eva-navarrete-651450204/">Connect with ME!</a><img src="https://media.giphy.com/media/stdqoZQtv5JVM1mI1j/giphy.gif" width="50px"/>
+<a href="https://www.linkedin.com/in/eva-navarrete-651450204/"></a><img src="https://media.giphy.com/media/stdqoZQtv5JVM1mI1j/giphy.gif" width="50px"/>
 <a href="https://github.com/Eva-Navarrete"></a><img src="https://media.giphy.com/media/Y01wot3Bt9Bpdz8xvs/giphy.gif" width="50px"/>
 
 
